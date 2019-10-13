@@ -1,0 +1,23 @@
+<keymap version="1" name="Default for macOS copy" parent="Mac OS X 10.5+">
+  <action id="Debug" />
+  <action id="EditorBackSpace">
+    <keyboard-shortcut first-keystroke="back_space" />
+    <keyboard-shortcut first-keystroke="shift back_space" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="EditorDelete">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorSelectLine">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
+  <action id="SelectNextOccurrence" />
+  <action id="TypeHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl meta h" />
+  </action>
+  <action id="Vcs.Log.FocusTextFilter" />
+</keymap>
