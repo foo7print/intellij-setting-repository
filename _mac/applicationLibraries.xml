@@ -165,11 +165,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/bcrypt-3.1.12/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/bcrypt-3.1.12/spec" />
@@ -184,11 +186,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/bindex/0.5.0" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/bindex-0.5.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/bindex-0.5.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/bindex-0.5.0/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/bindex/0.5.0" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/bindex-0.5.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/bindex-0.5.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/bindex-0.5.0/test" />
@@ -269,11 +273,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/byebug/9.0.6" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/byebug-9.0.6/bin" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/byebug-9.0.6/ext" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/byebug-9.0.6/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/byebug/9.0.6" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/byebug-9.0.6/bin" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/byebug-9.0.6/ext" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/byebug-9.0.6/lib" />
@@ -586,6 +592,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/ffi/1.9.18" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/ffi-1.9.18/ext" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/ffi-1.9.18/gen" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/ffi-1.9.18/lib" />
@@ -593,6 +600,7 @@
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/ffi-1.9.18/libtest" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/ffi/1.9.18" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/ffi-1.9.18/ext" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/ffi-1.9.18/gen" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/ffi-1.9.18/lib" />
@@ -943,6 +951,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nio4r/2.0.0" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/nio4r-2.0.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/nio4r-2.0.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/nio4r-2.0.0/spec" />
@@ -950,6 +959,7 @@
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/nio4r-2.0.0/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nio4r/2.0.0" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/nio4r-2.0.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/nio4r-2.0.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/nio4r-2.0.0/spec" />
@@ -968,6 +978,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/nokogiri-1.8.4/bin" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/nokogiri-1.8.4/ext" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/nokogiri-1.8.4/lib" />
@@ -977,6 +988,7 @@
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/nokogiri-1.8.4/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/nokogiri-1.8.4/bin" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/nokogiri-1.8.4/ext" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/nokogiri-1.8.4/lib" />
@@ -1064,6 +1076,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/puma/3.8.2" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/puma-3.8.2/bin" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/puma-3.8.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/puma-3.8.2/lib" />
@@ -1073,6 +1086,7 @@
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/puma-3.8.2/gemfiles" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/puma/3.8.2" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/puma-3.8.2/bin" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/puma-3.8.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/puma-3.8.2/lib" />
@@ -1213,11 +1227,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/rb-fsevent/0.9.8" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/rb-fsevent-0.9.8/bin" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/rb-fsevent-0.9.8/ext" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/rb-fsevent-0.9.8/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/rb-fsevent/0.9.8" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/rb-fsevent-0.9.8/bin" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/rb-fsevent-0.9.8/ext" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/rb-fsevent-0.9.8/lib" />
@@ -1519,6 +1535,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/sqlite3/1.3.13" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/sqlite3-1.3.13/ext" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/sqlite3-1.3.13/faq" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/sqlite3-1.3.13/lib" />
@@ -1526,6 +1543,7 @@
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/sqlite3-1.3.13/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/sqlite3/1.3.13" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/sqlite3-1.3.13/ext" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/sqlite3-1.3.13/faq" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/sqlite3-1.3.13/lib" />
@@ -1729,11 +1747,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/websocket-driver/0.6.5" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/websocket-driver-0.6.5/ext" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/websocket-driver-0.6.5/lib" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/websocket-driver-0.6.5/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/websocket-driver/0.6.5" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/websocket-driver-0.6.5/ext" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/websocket-driver-0.6.5/lib" />
         <root url="file://$USER_HOME$/.rbenv/gems/2.6.0/gems/websocket-driver-0.6.5/examples" />
