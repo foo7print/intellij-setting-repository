@@ -23,6 +23,7 @@
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
+  <action id="ParameterInfo" />
   <action id="SelectNextOccurrence" />
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="ctrl meta h" />
