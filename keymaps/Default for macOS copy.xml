@@ -5,11 +5,15 @@
     <keyboard-shortcut first-keystroke="shift back_space" />
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
+  <action id="EditorCutLineEnd" />
   <action id="EditorDelete">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="EditorDeleteLine" />
+  <action id="EditorDeleteToLineEnd">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
   <action id="EditorDeleteToLineStart">
     <keyboard-shortcut first-keystroke="ctrl u" />
     <keyboard-shortcut first-keystroke="meta back_space" />
