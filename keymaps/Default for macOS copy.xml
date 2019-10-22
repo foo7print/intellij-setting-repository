@@ -5,21 +5,27 @@
     <keyboard-shortcut first-keystroke="shift back_space" />
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
+  <action id="EditorCutLineEnd" />
   <action id="EditorDelete">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
-  <action id="EditorDeleteLine" />
+  <action id="EditorDeleteToLineEnd">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
   <action id="EditorDeleteToLineStart">
     <keyboard-shortcut first-keystroke="ctrl u" />
-    <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
+  <action id="ParameterInfo" />
   <action id="SelectNextOccurrence" />
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="ctrl meta h" />
