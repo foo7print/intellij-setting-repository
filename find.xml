@@ -13,7 +13,7 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.vue</mask>
-    <mask>*.slim</mask>
     <mask>*.rb</mask>
+    <mask>*.slim</mask>
   </component>
 </application>
